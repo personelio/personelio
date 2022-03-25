@@ -8,7 +8,6 @@
 - W : www.personel.io
 - T : twitter.com/personelio
 - I : instagram.com/personel.io
-- 
 
 <!---
 personelio/personelio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
